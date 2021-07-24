@@ -1,6 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+# Fork by Viktor13
+
+Try to add inveractivity (https://github.com/davidgohel/ggiraph/) to sankey plots.
+
 # ggsankey
 
 <!-- badges: start -->
